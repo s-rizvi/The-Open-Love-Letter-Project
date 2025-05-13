@@ -30,7 +30,7 @@ This GitHub repository contains the complete manuscript, research references, in
 | `Shannon_number.pdf`                 | Scientific interlude: Combinatorics, chess, and the divine architecture of possibility.                                       |
 | `Neurological_Order_and_Chaos.pdf`   | Scientific interlude: EEG fractal dynamics and the emergence of order through cognitive focus.                                |
 | `CONTRIBUTING.md`                    | Contribution guidelines.                                                                                                      |
-| `LICENSING.md`                       | Licensing guidelines.                                                                                                         |
+| [`LICENSE.md`](./LICENSE.md)         | Licensing guidelines.                                                                                                         |
 
 ## 🌱 Purpose and Philosophy
 
