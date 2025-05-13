@@ -13,7 +13,7 @@ This GitHub repository contains the complete manuscript, research references, in
 
 ## 🛠 How to View or Export the Manuscript
 
-0. To Preview the manuscript (without embedded PDFs, calculations, or graphs), click on `Manuscript.ipynb`
+0. To Preview the manuscript (without embedded PDFs, calculations, or graphs), click on `Manuscript.ipynb` or [click here.](./Manuscript.ipynb)
 1. Click the green `< > Code` button at the top of the page to download the entire project into one zip file, unzip the file after downloading
 2. Open `Manuscript.html` for a fully portable (device-friendly) ready-to-read version that contains all pre-rendered PDFs, graphs, etc.
 3. (Optional) For a full copy of the original manuscript source code, open `Manuscript.ipynb` in [JupyterLab](https://jupyter.org/) and run all code cells to view the inline PDFs, calculations, and graphs.
@@ -71,4 +71,14 @@ God might just be listening with His whole attention.
 
 ---
 
-📜 Licensed under CC BY-NC-ND 4.0
+## 📜 License
+
+
+This project is shared for educational and devotional purposes under the CC BY-NC-ND 4.0 License.
+See [LICENSING.md](./LICENSING.md) for licensing guidelines.
+
+## 🤝 Contributing
+
+It is my ambition to see this project become a series where other writers emulate this style of Qur'anic poetry.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
+
