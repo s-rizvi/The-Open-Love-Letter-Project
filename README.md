@@ -3,7 +3,7 @@
 
 Poetry, pattern, and prayer meet in an open love letter to God; for seekers of science, faith, and beauty.
 
-[@openloveletterproject](https://www.instagram.com/openloveletterproject?igsh=NWk3MmcxN2thYzFl) on Instagram
+[@openloveletterproject](https://www.instagram.com/openloveletterproject) on Instagram
 
 ---
 
@@ -75,10 +75,12 @@ God might just be listening with His whole attention.
 
 
 This project is shared for educational and devotional purposes under the CC BY-NC-ND 4.0 License.
+
 See [LICENSING.md](./LICENSING.md) for licensing guidelines.
 
 ## 🤝 Contributing
 
-It is my ambition to see this project become a series where other writers emulate this style of Qur'anic poetry.
+It is my ambition to see this project become a series where other writers also emulate this style of Qur'anic poetry. If you wish to become a collaborator, contact me on Instagram [@openloveletterproject](https://www.instagram.com/openloveletterproject)
+
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
