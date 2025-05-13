@@ -1,21 +1,19 @@
-# The Open Love Letter Project
+# 🌌 The Open Love Letter Project
+**By Noor Rizvi**
 Poetry, pattern, and prayer meet in an open love letter to God; for seekers of science, faith, and beauty.
 
 [@openloveletterproject](https://www.instagram.com/openloveletterproject?igsh=NWk3MmcxN2thYzFl) on Instagram
 
-
-
 ---
-
-# 🌌 An Open Love Letter to God
-
-### A Theocosmic Journey of Memory, Mathematics, and Divine Return
-
-**By Noor Rizvi**
 
 ## 📖 Overview
 
 This GitHub repository contains the complete manuscript, research references, interlude PDFs, and design materials for the book *An Open Love Letter to God*. It is a poetic, philosophical, and scientific exploration of divine love, human memory, sacred knowledge, and asymptotic intimacy with God — blending Islamic spirituality with scientific awe, brain fractals, and cosmological reflections.
+
+## 🛠 How to View or Export the Manuscript
+
+* Download `Manuscript.html` for a fully portable (device-friendly) ready-to-read version.
+* For a full copy of the original manuscript source code, download the entire project into one file, open `Manuscript.ipynb` in [JupyterLab](https://jupyter.org/) and run all code cells to view the inline PDFs.
 
 ## 📂 Repository Structure
 
@@ -52,12 +50,6 @@ Three key scientific PDFs are embedded within the manuscript as interludes:
 1. **The Dirac Large Numbers Hypothesis** — exploring cosmological scale and sacred time.
 2. **The Shannon Number** — examining possibility space as divine metaphor in creation and chess.
 3. **Order and Chaos in the Brain** — investigating how attention creates order from EEG fractal noise.
-
-## 🛠 How to View or Export the Manuscript
-
-* For a fully portable, embeddable HTML version with inline PDFs, open `Manuscript.ipynb` in [JupyterLab](https://jupyter.org/) and run all cells.
-* Export to HTML with embedded PDFs using the custom `Export` process described in the notebook.
-* Or download `Manuscript.pdf` for a ready-to-read print version.
 
 ## 👤 About the Author
 
