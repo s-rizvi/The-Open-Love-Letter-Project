@@ -1,12 +1,12 @@
 # 🌌 The Open Love Letter Project
 **By Noor Rizvi**
 
-Copyright © 2025 Noor Rizvi  
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 Poetry, pattern, and prayer meet in an open love letter to God; for seekers of science, faith, and beauty.
 
 [@openloveletterproject](https://www.instagram.com/openloveletterproject) on Instagram
+
+Copyright © 2025 Noor Rizvi  
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
