@@ -10,9 +10,10 @@ Poetry, pattern, and prayer meet in an open love letter to God; for seekers of s
 
 This GitHub repository contains the complete manuscript, research references, interlude PDFs, and design materials for the book *An Open Love Letter to God*. It is a poetic, philosophical, and scientific exploration of divine love, human memory, sacred knowledge, and asymptotic intimacy with God — blending Islamic spirituality with scientific awe, brain fractals, and cosmological reflections.
 
+![Cover Image](./Cover.pdf)
+
 ## 🛠 How to View or Export the Manuscript
 
-[📖 Read the Book (Portable HTML)](./Manuscript.html)
 1. Click the green `< > Code` button at the top of the page to download the entire project into one zip file, unzip the file after downloading
 2. Open `Manuscript.html` for a fully portable (device-friendly) ready-to-read version that contains all pre-rendered PDFs, graphs, etc.
 3. (Optional) For a full copy of the original manuscript source code, open `Manuscript.ipynb` in [JupyterLab](https://jupyter.org/) and run all code cells to view the inline PDFs, calculations, and graphs.
