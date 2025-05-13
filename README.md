@@ -21,15 +21,13 @@ This GitHub repository contains the complete manuscript, research references, in
 
 | Folder/File                          | Description                                                                                                                   |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| `README.md`                          | This file — a guide to the project and its structure.                                                                         |
 | `Manuscript.ipynb`                   | The live, editable Jupyter Notebook version of the book, structured for export to HTML or PDF with embedded visual materials. |
-| `Manuscript.pdf`                     | A static PDF version of the full manuscript.                                                                                  |
+| `Manuscript.html`                    | The static (non-editable) but portable web preview version of the book, structured for easiest reading experience.            |
 | `Cover.pdf`                          | The finalized front cover of the book.                                                                                        |
-| `Graphing-language.JPG`              | The original ASCII-styled artwork used for the front cover.                                                                   |
 | `Dirac_large_numbers_hypothesis.pdf` | Scientific interlude: Dirac’s dimensionless scale as theological metaphor.                                                    |
 | `Shannon_number.pdf`                 | Scientific interlude: Combinatorics, chess, and the divine architecture of possibility.                                       |
 | `Neurological_Order_and_Chaos.pdf`   | Scientific interlude: EEG fractal dynamics and the emergence of order through cognitive focus.                                |
-| `Book_Proposal_v0.5_.ipynb`          | Draft of the formal book proposal for literary agents and publishers.                                                         |
-| `README.md`                          | This file — a guide to the project and its structure.                                                                         |
 
 ## 🌱 Purpose and Philosophy
 
