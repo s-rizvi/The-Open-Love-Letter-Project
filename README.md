@@ -43,7 +43,7 @@ This book is more than poetry. It's a devotional systems-theory for seekers of t
 * The aesthetics of order, symmetry, and awe
 
 It’s a call to remember:
-That knowledge is a form of worship.
+That the pursuit of knowledge is a form of worship.
 That silence is sometimes the answer.
 That even fractals obey God.
 And that longing for God — is already closeness.
