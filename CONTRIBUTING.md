@@ -28,7 +28,7 @@ This project is licensed under:
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 [Read the License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-By submitting a pull request, you agree to the following:
+By forking or submitting a pull request, you agree to the following:
 
 - Your contributions are licensed under the same license as the main project (CC BY-NC-SA 4.0)
 - You retain authorship of your submitted work
