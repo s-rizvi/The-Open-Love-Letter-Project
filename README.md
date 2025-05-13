@@ -68,3 +68,5 @@ maybe let the silence answer back for a while.
 God might just be listening with His whole attention.
 
 ---
+
+📜 Licensed under CC BY-NC-ND 4.0
