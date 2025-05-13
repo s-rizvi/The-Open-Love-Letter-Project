@@ -1,25 +1,61 @@
 # 🤝 Contributing to *The Open Love Letter Project*
 
-Thank you for your interest in contributing! This is a deeply personal and artistic project, so the core creative content is not open for modification. However, you're welcome to engage in the following ways:
+Thank you for your interest in contributing! This project is both a personal offering and a growing public archive — rooted in devotional writing, scientific metaphor, and sacred beauty.
 
-### 🧠 How to Contribute
+While the main manuscript is authored and curated by Noor Rizvi, thoughtful contributions are welcomed through structured channels to preserve the spiritual, poetic, and intellectual integrity of the project.
 
-- **File an Issue**: Spot a typo, formatting issue, or have a thoughtful suggestion? Please open an [Issue](../../issues).
-- **Pull Requests**: Only collaborators with prior approval may submit PRs. All pull requests to the `main` branch require review and approval.
+---
 
-### 🚫 Restrictions
+## 🧠 How You Can Contribute
 
-- 🚫 No unsolicited pull requests modifying manuscript content or author statements
-- 🚫 No commercial reuse, remixing, or redistribution — see [LICENSE.md](./LICENSE.md)
+- **📂 File an Issue**  
+  Spot a typo, formatting bug, or have a scientific or poetic suggestion? Open an [Issue](../../issues) to begin a conversation.
 
-### ✅ Helpful Contributions
+- **🔀 Fork the Repository**  
+  Forks that are sufficiently derivative works are allowed (and encouraged) under the terms of the license (see below). You may explore your own versions of the manuscript or research. By allowing forks I wish to see others emulate this style of poetry using their own ideas, ideally writing an entirely new manuscript with your own authorship under this project.
 
-- Suggestions for scientific clarity
-- GitHub Actions, formatting, or Jupyter Notebook compatibility improvements
-- Bug reports for rendering/exports
+- **📬 Submit a Pull Request**  
+  Only approved contributors may submit pull requests to the `main` branch. All PRs are subject to review. Please limit PRs to the following:
+  - Formatting fixes or code improvements in `.ipynb`
+  - Citation or clarity suggestions in scientific interludes
+  - Accessibility or UI enhancements in manuscript rendering
 
-Thank you for respecting the creative integrity of this project.
+---
+
+## 🔐 License & Legal Agreement
+
+This project is licensed under:  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+[Read the License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+By submitting a pull request, you agree to the following:
+
+- Your contributions are licensed under the same license as the main project (CC BY-NC-SA 4.0)
+- You retain authorship of your submitted work
+- You grant Noor Rizvi and all future readers the right to use, modify, and redistribute your contribution under the same license
+
+This ensures the entire online manuscript and its derivatives remain:
+- 🆓 Non-commercial
+- 🔁 Shareable
+- 📜 Consistently licensed
+
+**⚠️ Pull requests will not be merged unless the contributor accepts these terms.**
+
+---
+
+## 🚫 What Not to Submit
+
+To protect the creative and devotional core of this project, **please do not submit:**
+
+- Major edits to the manuscript content or poetry
+- Translations or adaptations without prior approval
+
+For all such proposals, consider opening an Issue or creating your own licensed fork.
+
+---
+
+Thank you for walking this path with us.
 
 🕊️ With Light,
-Noor Rizvi  
-Author & Curator
+*Noor Rizvi*
+Author & Curator, The Open Love Letter Project
