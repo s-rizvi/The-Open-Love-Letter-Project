@@ -1,17 +1,31 @@
-## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+## 📜 License
 
-This work, *An Open Love Letter to God*, by Noor Rizvi, and the associated materials in this repository are licensed under a Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
+**An Open Love Letter to God**  
+Copyright © 2025 Noor Rizvi  
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 You are free to:
 
-- **Share** — copy and redistribute the material in any medium or format
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material
 
 Under the following terms:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
-- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the *same license* as the original.
 
-**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+## 🛡️ License Agreement for Contributions
 
-📜 Full license text: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+By submitting a pull request to this repository, you agree to license your contributions under the same license as the main project:  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
+
+This means:
+
+- Your contributions may be modified, redistributed, or incorporated into the main project under the same terms.
+- You retain authorship of your contribution, but grant Noor Rizvi and future readers the right to use your work under CC BY-NC-SA 4.0.
+- You may fork and create derivative works of the project, but must retain this license on any published versions.
+
+No pull request will be accepted unless the contributor accepts these terms.
+
+Full legal code: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
