@@ -22,14 +22,14 @@ This GitHub repository contains the complete manuscript, research references, in
 
 | Folder/File                          | Description                                                                                                                   |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| `README.md`                          | This file — a guide to the project and its structure.                                                                         |
-| `Manuscript.ipynb`                   | The live, editable Jupyter Notebook version of the book, structured for export to HTML or PDF with embedded visual materials. |
-| `Manuscript.html`                    | The static (non-editable) but portable web preview version of the book, structured for easiest reading experience.            |
-| `Cover.pdf`                          | The finalized front cover of the book.                                                                                        |
-| `Dirac_large_numbers_hypothesis.pdf` | Scientific interlude: Dirac’s dimensionless scale as theological metaphor.                                                    |
-| `Shannon_number.pdf`                 | Scientific interlude: Combinatorics, chess, and the divine architecture of possibility.                                       |
-| `Neurological_Order_and_Chaos.pdf`   | Scientific interlude: EEG fractal dynamics and the emergence of order through cognitive focus.                                |
-| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Contribution guidelines.                                                                                                      |
+| [`README.md`](./README.md)           | This file — a guide to the project and its structure.                                                                         |
+| [`Manuscript.ipynb`](./Manuscript.ipynb) | The live, editable Jupyter Notebook version of the book, structured for export to HTML or PDF with embedded visual materials. |
+| [`Manuscript.html`](./Manuscript.html) | The static (non-editable) but portable web preview version of the book, structured for easiest reading experience.          |
+| [`Cover.pdf`](./Cover.pdf)           | The finalized front cover of the book.                                                                                        |
+| [`Dirac_large_numbers_hypothesis.pdf`](./Dirac_large_numbers_hypothesis.pdf) | Scientific interlude: Dirac’s dimensionless scale as theological metaphor.            |
+| [`Shannon_number.pdf`](./Shannon_number.pdf) | Scientific interlude: Combinatorics, chess, and the divine architecture of possibility.                               |
+| [`Neurological_Order_and_Chaos.pdf`](./Neurological_Order_and_Chaos.pdf) | Scientific interlude: EEG fractal dynamics and the emergence of order through cognitive focus. |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Contribution guidelines.                                                                                                    |
 | [`LICENSE.md`](./LICENSE.md)         | Licensing guidelines.                                                                                                         |
 
 ## 🌱 Purpose and Philosophy
