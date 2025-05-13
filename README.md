@@ -29,7 +29,7 @@ This GitHub repository contains the complete manuscript, research references, in
 | `Dirac_large_numbers_hypothesis.pdf` | Scientific interlude: Dirac’s dimensionless scale as theological metaphor.                                                    |
 | `Shannon_number.pdf`                 | Scientific interlude: Combinatorics, chess, and the divine architecture of possibility.                                       |
 | `Neurological_Order_and_Chaos.pdf`   | Scientific interlude: EEG fractal dynamics and the emergence of order through cognitive focus.                                |
-| `CONTRIBUTING.md`                    | Contribution guidelines.                                                                                                      |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Contribution guidelines.                                                                                                      |
 | [`LICENSE.md`](./LICENSE.md)         | Licensing guidelines.                                                                                                         |
 
 ## 🌱 Purpose and Philosophy
