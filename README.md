@@ -1,5 +1,6 @@
 # 🌌 The Open Love Letter Project
 **By Noor Rizvi**
+
 Poetry, pattern, and prayer meet in an open love letter to God; for seekers of science, faith, and beauty.
 
 [@openloveletterproject](https://www.instagram.com/openloveletterproject?igsh=NWk3MmcxN2thYzFl) on Instagram
@@ -9,8 +10,6 @@ Poetry, pattern, and prayer meet in an open love letter to God; for seekers of s
 ## 📖 Overview
 
 This GitHub repository contains the complete manuscript, research references, interlude PDFs, and design materials for the book *An Open Love Letter to God*. It is a poetic, philosophical, and scientific exploration of divine love, human memory, sacred knowledge, and asymptotic intimacy with God — blending Islamic spirituality with scientific awe, brain fractals, and cosmological reflections.
-
-![Cover Image](./Cover.pdf)
 
 ## 🛠 How to View or Export the Manuscript
 
