@@ -76,7 +76,7 @@ God might just be listening with His whole attention.
 
 This project is shared for educational and devotional purposes under the CC BY-NC-ND 4.0 License.
 
-See [LICENSING.md](./LICENSING.md) for licensing guidelines.
+See [LICENSE.md](./LICENSE.md) for licensing guidelines.
 
 ## 🤝 Contributing
 
