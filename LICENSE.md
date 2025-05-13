@@ -2,7 +2,9 @@
 
 **An Open Love Letter to God**  
 Copyright © 2025 Noor Rizvi  
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> The print edition of this work may be subject to additional rights or a separate license. Please contact the author for permissions regarding commercial or print use.
 
 You are free to:
 
