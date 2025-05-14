@@ -12,7 +12,7 @@ While the main manuscript is authored and curated by Noor Rizvi, thoughtful cont
   Spot a typo, formatting bug, or have a scientific or poetic suggestion? Open an [Issue](../../issues) to begin a conversation.
 
 - **🔀 Fork the Repository**  
-  Forks that are sufficiently derivative works are allowed (and encouraged) under the terms of the license (see below). You may explore your own versions of the manuscript or research. By allowing forks I wish to see others emulate this style of poetry using their own ideas, ideally writing an entirely new manuscript with your own authorship under this project. Warning: repository/project owners retain the right to delete forks.
+  Forks and derivative works are allowed (and encouraged) under the terms of the license (see below). You may explore your own versions of the manuscript or research. By allowing forks I wish to see others emulate this style of poetry using their own ideas, ideally writing an entirely new manuscript with your own authorship under this project. Warning: repository/project owners retain the right to delete forks.
 
 - **📬 Submit a Pull Request**  
   Only approved contributors may submit pull requests to the `main` branch. All PRs are subject to review. Please limit PRs to the following:
