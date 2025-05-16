@@ -50,12 +50,14 @@ To protect the creative and devotional core of this project, **please do not sub
 - Major edits to the manuscript content or poetry
 - Translations or adaptations without prior approval
 
-For all such proposals, consider opening an Issue or creating your own licensed fork.
+For all such proposals, consider opening an [Issue](../../issues) or creating your own licensed fork.
 
 ---
 
 Thank you for walking this path with us.
 
 🕊️ With Light,
+
 *Noor Rizvi*
+
 Author & Curator, The Open Love Letter Project
