@@ -28,6 +28,8 @@ This project is licensed under:
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 [Read the License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+> The print edition of this work may be subject to additional rights or a separate license. Please contact the author for permissions regarding commercial or print use.
+
 By forking or submitting a pull request, you agree to the following:
 
 - Your contributions are licensed under the same license as the main project (CC BY-NC-SA 4.0)
@@ -40,8 +42,6 @@ This ensures the entire online manuscript and its derivatives remain:
 - 📜 Consistently licensed
 
 **⚠️ Pull requests will not be merged unless the contributor accepts these terms. Forks may be deleted at any time.**
-
-> The print edition of this work may be subject to additional rights or a separate license. Please contact the author for permissions regarding commercial or print use.
 
 ---
 
