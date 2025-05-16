@@ -41,6 +41,8 @@ This ensures the entire online manuscript and its derivatives remain:
 
 **⚠️ Pull requests will not be merged unless the contributor accepts these terms. Forks may be deleted at any time.**
 
+> The print edition of this work may be subject to additional rights or a separate license. Please contact the author for permissions regarding commercial or print use.
+
 ---
 
 ## 🚫 What Not to Submit
