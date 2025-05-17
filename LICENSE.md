@@ -28,6 +28,11 @@ This means:
 - You retain authorship of your contribution, but grant Noor Rizvi and future readers the right to use your work under CC BY-NC-SA 4.0.
 - You may fork and create derivative works of the project, but must retain this license on any published versions.
 
+This ensures the entire online manuscript and its derivatives remain:
+- 🆓 Non-commercial
+- 🔁 Shareable
+- 📜 Consistently licensed
+
 No pull request will be accepted unless the contributor accepts these terms. Forks may be deleted at the discretion of the repository/project owner.
 
 Full legal code: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
