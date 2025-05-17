@@ -28,7 +28,7 @@ This means:
 - You retain authorship of your contribution, but grant Noor Rizvi and future readers the right to use your work under CC BY-NC-SA 4.0.
 - You may fork and create derivative works of the project, but must retain this license on any published versions.
 
-This ensures the entire online manuscript and its derivatives remain:
+This ensures the entire (online) manuscript and its derivatives (forks) remain:
 - 🆓 Non-commercial
 - 🔁 Shareable
 - 📜 Consistently licensed
