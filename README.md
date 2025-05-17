@@ -83,4 +83,10 @@ or simply feel lost in the vastness of this world —
 maybe let the silence answer back for a while.
 God might just be listening with His whole attention.
 
+✨ With Light,
+
+*Noor Rizvi*
+
+🕊️ Author & Curator, The Open Love Letter Project
+
 ---
