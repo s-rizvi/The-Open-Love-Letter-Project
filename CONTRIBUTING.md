@@ -36,7 +36,7 @@ By forking or submitting a pull request, you agree to the following:
 - You retain authorship of your submitted work
 - You grant Noor Rizvi and all future readers the right to use, modify, and redistribute your contribution under the same license
 
-This ensures the entire (online) manuscript and its derivatives (forks) remain:
+This ensures the entire online manuscript and its derivatives remain:
 - 🆓 Non-commercial
 - 🔁 Shareable
 - 📜 Consistently licensed
