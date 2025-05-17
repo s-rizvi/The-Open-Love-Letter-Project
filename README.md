@@ -65,15 +65,6 @@ Three key scientific PDFs are embedded within the manuscript as interludes:
 
 > “This book is not a product of perfection, but of persistence — a love letter written after forgetting, and a remembering that never ends.”
 
-## 🕊️ Final Note
-
-If you are walking under stars right now —
-or simply feel lost in the vastness of this world —
-maybe let the silence answer back for a while.
-God might just be listening with His whole attention.
-
----
-
 ## 🤝 Contributing
 
 It is my ambition to see this project become a series where other writers also emulate this style of Qur'anic poetry. If you wish to become a collaborator, contact me on Instagram [@openloveletterproject](https://www.instagram.com/openloveletterproject)
@@ -85,3 +76,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 This project is shared for educational and devotional purposes under the CC BY-NC-SA 4.0 License.
 
 See [LICENSE.md](./LICENSE.md) for licensing guidelines.
+
+## 🕊️ Final Note
+
+If you are walking under stars right now —
+or simply feel lost in the vastness of this world —
+maybe let the silence answer back for a while.
+God might just be listening with His whole attention.
+
+---
