@@ -58,8 +58,8 @@ For all such proposals, consider opening an [Issue](../../issues) or creating yo
 
 Thank you for walking this path with us.
 
-🕊️ With Light,
+✨ With Light,
 
 *Noor Rizvi*
 
-Author & Curator, The Open Love Letter Project
+🕊️ Author & Curator, The Open Love Letter Project
