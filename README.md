@@ -18,7 +18,7 @@ This GitHub repository contains the complete manuscript, research references, in
 
 * To Preview the manuscript (without embedded PDFs, calculations, or graphs), click on [`Manuscript.ipynb`](./Manuscript.ipynb)
 * Download [`Manuscript.html`](./Manuscript.html) for a fully portable (device-friendly) ready-to-read version that contains all pre-rendered PDFs, graphs, etc. (opens in any browser).
-* (Optional) For a full copy of the original manuscript source code, click the green `code` button to download the entire project as a zip file (unzip after download), open [`Manuscript.ipynb`](./Manuscript.ipynb) in [JupyterLab](https://jupyter.org/) and run all code cells to view the inline PDFs, calculations, and graphs.
+* (Optional) For a full copy of the original manuscript source code, click the green `code` button at the top of the page to download the entire project as a zip file (unzip after download), open [`Manuscript.ipynb`](./Manuscript.ipynb) in [JupyterLab](https://jupyter.org/) and run all code cells to view the inline PDFs, calculations, and graphs.
 
 ## 📂 Repository Structure
 
