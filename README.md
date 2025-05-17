@@ -60,7 +60,7 @@ Three key scientific PDFs are embedded within the manuscript as interludes:
 
 ## 👤 About the Author
 
-**Noor Rizvi** is a writer, seeker, and undergraduate student in molecular biology. His work explores where science meets spirit — from quantum chemistry to Qur’anic aesthetics. Noor hopes to one day work at the frontier of research, but more than titles or institutions, he wants to be remembered as someone who paid attention. Who whispered back. Who wrote it all down.
+**Noor Rizvi** is a writer, seeker, and undergraduate student in molecular biology. His work explores where science meets spirit — from quantum chemistry to Qur’anic aesthetics. His name, *Noor* — meaning *"God’s Light"* in Arabic — is not just a name but a path. A promise. It is the thread that weaves through every chapter of this book: light as remembrance, light as proof, light as destination. He sees the divine not only in scripture, but in spirals, data sets, EEG readouts, galactic rotation curves — the sacred pattern encoded into all things. Noor hopes to one day work at the frontier of research, but more than titles or institutions, he wants to be remembered as someone who paid attention. Who whispered back. Who wrote it all down.
 
 > “This book is not a product of perfection, but of persistence — a love letter written after forgetting, and a remembering that never ends.”
 
