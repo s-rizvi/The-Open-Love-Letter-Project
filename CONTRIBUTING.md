@@ -27,9 +27,9 @@ While the main manuscript is authored and curated by Noor Rizvi, thoughtful cont
 This project is licensed under:  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 
 
-See [LICENSE.md](./LICENSE.md) for the full project license details.
-
 > The print edition of this work may be subject to additional rights or a separate license. Please contact the author for permissions regarding commercial or print use.
+
+See [LICENSE.md](./LICENSE.md) for the full project license details.
 
 By forking or submitting a pull request, you agree to the following:
 
