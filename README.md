@@ -66,7 +66,7 @@ Three key scientific PDFs are embedded within the manuscript as interludes:
 
 ## 🤝 Contributing
 
-It is my ambition to see this project become a series where other writers also emulate this style of Qur'anic poetry. If you wish to become a collaborator, contact me on Instagram [@openloveletterproject](https://www.instagram.com/openloveletterproject)
+It is my ambition to see this project become a series where other writers also emulate this style of Qur'anic poetry (Christians and Hindus, I'm looking at you as well 👀). If you wish to become a collaborator, contact me on Instagram [@openloveletterproject](https://www.instagram.com/openloveletterproject)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
