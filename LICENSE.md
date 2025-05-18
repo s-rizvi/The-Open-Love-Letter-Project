@@ -35,6 +35,6 @@ This ensures the entire (online) manuscript and its derivatives (forks) remain:
 - 🔁 Shareable
 - 📜 Consistently licensed
 
-No pull request will be accepted unless the contributor accepts these terms. Forks may be deleted at the discretion of the repository/project owner. If you wish to become a collaborator, contact *Noor Rizvi* on Instagram
+No pull request will be accepted unless the contributor accepts these terms. Forks may be deleted at the discretion of the repository/project owner. If you wish to become a collaborator, contact *Noor Rizvi* on Instagram [@openloveletterproject](https://www.instagram.com/openloveletterproject) to begin a conversation.
 
 Full legal code: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
