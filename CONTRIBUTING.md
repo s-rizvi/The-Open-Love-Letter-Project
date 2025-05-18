@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing! This project is both a personal offering and a growing public archive — rooted in devotional writing, scientific metaphor, and sacred beauty.
 
-While the main manuscript is authored and curated by Noor Rizvi, thoughtful contributions are welcomed through structured channels to preserve the spiritual, poetic, and intellectual integrity of the project.
+While the main manuscript is authored and curated by me (*Noor Rizvi*), thoughtful contributions are welcomed through structured channels to preserve the spiritual, poetic, and intellectual integrity of the project. My aim is to open a conversation on anything that can be related to citeable theological literature (Islamic or otherwise).
 
 ---
 
