@@ -19,6 +19,8 @@ Under the following terms:
 
 ## 🛡️ License Agreement for Contributions
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guidelines.
+
 By forking or submitting a pull request to this repository, you agree to license your contributions under the same license as the main project:  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
 
